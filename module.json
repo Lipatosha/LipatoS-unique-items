@@ -1,0 +1,35 @@
+{
+  "id": "aindor-unique-items",
+  "title": "LipatoS - Уникальные предметы",
+  "description": "Автоматизация уникальных предметов мира Aindor для D&D5e. Багряная мантия запоминает использованное заклинание 1–3 уровня, позволяет повторить его без траты ячейки за заряд и восстанавливает заряд после продолжительного отдыха.",
+  "version": "1.4.1",
+  "authors": [
+    {
+      "name": "LipatoS"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.0",
+          "verified": "6.0.5"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "url": "https://github.com/Lipatosha/LipatoS-unique-items",
+  "manifest": "https://raw.githubusercontent.com/Lipatosha/LipatoS-unique-items/main/module.json",
+  "download": "https://raw.githubusercontent.com/Lipatosha/LipatoS-unique-items/main/lipatos-unique-items-v1.4.1.zip",
+  "readme": "https://github.com/Lipatosha/LipatoS-unique-items/blob/main/README.md",
+  "bugs": "https://github.com/Lipatosha/LipatoS-unique-items/issues"
+}
